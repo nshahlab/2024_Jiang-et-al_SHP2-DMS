@@ -1,6 +1,6 @@
 General notes:
 
-These scripts were generated to process data for a manuscript entitled, "Revealing the principles of inter- and intra-domain regulation in a signaling enzyme via scanning mutagenesis (https://doi.org/10.1101/2024.05.13.593907).
+These scripts were generated to process data for a manuscript entitled, "Deep mutational scanning of the multi-domain phosphatase SHP2 reveals mechanisms of regulation and pathogenicity" (https://doi.org/10.1101/2024.05.13.593907).
 The script have been tested on Python 3.9.12 and run from the MacOS 12.7 terminal. Most of the scripts require BioPython and/or NumPy.
 The scripts are divided into two subfolders, based on the type of data being analyzed: deep sequencing data from deep mutational scanning experiments and molecular dynamics (MD) trajectories.
 
